@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "@omer-x/eslint-config": "^2.1.2",
-    "@omer-x/openapi-types": "^1.2.0",
+    "@omer-x/openapi-types": "^1.2.2",
     "eslint": "^9.22.0",
     "ts-jest": "^29.2.6",
     "ts-node": "^10.9.2",
